@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrrobotsca&hide=stars,issues&count_private=true&show_icons=true">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrrobotsca&count_private=true&show_icons=true">
 
 [![linkedin](https://img.shields.io/static/v1?label=linkedin&message=%20&color=e3be7a&logo=&style=flat-square&logoColor=orange)](https://www.linkedin.com/in/omidadibi/)
 [![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:omidadibi943@gmail.com)
