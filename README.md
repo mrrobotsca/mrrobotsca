@@ -1,16 +1,28 @@
-### Hi there 👋
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mrrobotsca&hide=stars,issues&count_private=true&show_icons=true">
 
-<!--
-**mrrobotsca/mrrobotsca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/static/v1?label=linkedin&message=%20&color=e3be7a&logo=&style=flat-square&logoColor=orange)](https://www.linkedin.com/in/omidadibi/)
+[![e-mail](https://img.shields.io/static/v1?label=e-mail&message=%20&color=68835c&logo=gmail&style=flat-square&logoColor=white)](mailto:omidadibi943@gmail.com)
 
-Here are some ideas to get you started:
+<p align="center">
+  <br><br>
+  <samp>
+    :wave: Hi! - Full-Stack Software Engineer - in Montreal.
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary><b>a bit about me</b></summary>
+
+<br>- 💬 Ask me about ... Passionate about entrepreneurship 💥
+<br>- 📫 How to reach me: ... omidadibi943@gmail.com 📨
+<br>- ⚡ Fun fact: ... Know my ways around BBQ 😎
+</details>
+ 
+---
+
+🧰 Toolbox
+
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/40873350/122793901-ee3fd000-d278-11eb-9f46-314c80130311.png" alt="HTML Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/40873350/122793734-c81a3000-d278-11eb-8fcf-b01cc10c4efe.png" alt="CSS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="MySQL Logo" width="50" height="50"/> <img src="https://pngimage.net/wp-content/uploads/2018/05/express-js-png-5.png" alt="Express Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/docker-3.svg" alt="Docker Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/mocha-1.svg" alt="Mocha Logo" width="50" height="50"/> <img src="https://symbols.getvecta.com/stencil_85/20_jest-icon.a8fdca0c23.svg" alt="Jest Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux Logo" width="50" height="50"/>
+
+
+---
