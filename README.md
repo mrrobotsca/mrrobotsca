@@ -12,5 +12,3 @@ Occasionally I BBQ.
 ---
 
 [linkedin](https://www.linkedin.com/in/omidadibi/) · [email](mailto:omidadibi943@gmail.com)
-
-![stats](https://github-readme-stats.vercel.app/api?username=mrrobotsca&count_private=true&hide=issues,prs&hide_border=true&hide_title=true&theme=dark)
